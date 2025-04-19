@@ -1,5 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-![logo](https://github.com/shreyagupta17/Netflix_sql_project/blob/main/logo.png?raw=true)
+[netflix_logo](![image](https://github.com/user-attachments/assets/b2db7c23-696c-4919-b2e4-181396da0a19)
+)
 
 
 ## Overview
